@@ -11,7 +11,8 @@ args = parser.parse_args()
 
 # An api key is emailed to you when you sign up to a plan
 # Get a free API key at https://api.the-odds-api.com/
-API_KEY = args.api_key or 'YOUR_API_KEY'
+API_KEY = --api-key (746b7c67527ab2bb441792eb46e3926c)
+
 
 SPORT = 'upcoming' # use the sport_key from the /sports endpoint below, or use 'upcoming' to see the next 8 games across all sports
 
